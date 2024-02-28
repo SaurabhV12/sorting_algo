@@ -1,4 +1,9 @@
-﻿int[] selection_sort_num = { 5, 72, 3, 14, 7 ,1};
+/*Name : Saurabh Verma
+Date :  02/28/2023
+Selection Sort Algo
+*/
+
+int[] selection_sort_num = { 5, 72, 3, 14, 7 ,1};
 
 Console.WriteLine("The array before executing the Selection Sort: ");
 for (int i = 0; i < selection_sort_num.Length; i++)
